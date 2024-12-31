@@ -1,0 +1,14 @@
+pkgbase = ditana-print-system-infos
+	pkgdesc = Ditana system infos printer used in shells
+	pkgver = 1.26
+	pkgrel = 1
+	url = https://ditana.org
+	arch = any
+	license = AGPL-3.0-or-later AND BSD-2-Clause AND BSD-3-Clause AND BSD-4-Clause-UC AND GPL-2.0-only AND GPL-2.0-or-later AND GPL-3.0-or-later AND ISC LGPL-2.1-or-later AND LicenseRef-PublicDomain AND GPL-2.0-only
+	depends = pciutils
+	depends = util-linux
+	depends = gawk
+	source = file:///media/stefan/data/Documents/git/my-projects/acrion/ditana/packages/001-ditana-print-system-infos/print-system-infos
+	sha256sums = SKIP
+
+pkgname = ditana-print-system-infos
